@@ -6,11 +6,12 @@ I enjoy building software that solves real problems and exploring different area
 
 ## 🚀 About Me
 
-* 🎓 Computer Science Student
-* 📍 Living in Slovenia
-* 💻 Interested in Backend, Frontend & Mobile Development
-* 🔧 Building projects and learning through practice
-* 🌱 Always exploring new technologies and tools
+- 🎓 Computer Science Student
+- 📍 Living in Slovenia
+- 💻 Interested in Backend, Frontend & Mobile Development
+- 🎨 Experienced in designing user-friendly mobile and web applications
+- 🔧 Building projects and learning through practice
+- 🌱 Always exploring new technologies and tools
 
 ## 🛠️ Tech Stack
 
